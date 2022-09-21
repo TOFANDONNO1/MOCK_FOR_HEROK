@@ -1,8 +1,17 @@
 {
-    "todo": [{
-        "title": "TasK1",
-        "id":"499",
-        "status":false
-    }],
-    "store":[]
+  "todo": [
+    {
+      "title": "TasK1",
+      "id": "499",
+      "status": false
+    }
+  ],
+  "store": [
+    {
+      "name": "hhh",
+      "price": "1010",
+      "sold": false,
+      "id": 1
+    }
+  ]
 }
