@@ -1,19 +1,5 @@
 {
-  "todo": [
-    {
-      "title": "TasK1",
-      "id": "499",
-      "status": false
-    }
-  ],
-  "store": [
-    {
-      "name": "hhh",
-      "price": "1010",
-      "sold": false,
-      "id": 1
-    }
-  ],
+ 
   "tofan":[
     {
         "name": "sRK",
@@ -21,5 +7,11 @@
         "sold": false,
         "id": 2
     }
+  ]
+  ,"user": [
+    { "name": "king",
+     "op":"ff"
+  
+  }
   ]
 }
